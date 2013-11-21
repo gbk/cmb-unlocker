@@ -1,0 +1,14 @@
+{
+  "name": "CMB Unlocker",
+  "version": "0.0.2",
+  "manifest_version": 2,
+  "description": "Access CMB Mobile Bank from Chrome.",
+  "content_scripts": [
+    {
+      "matches": [ "https://mobile.cmbchina.com/*" ],
+      "js": [ "loader.js" ]
+    }
+  ],
+  "permissions": [ "https://mobile.cmbchina.com/*" ],
+  "web_accessible_resources": [ "index.js" ]
+}
