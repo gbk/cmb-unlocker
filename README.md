@@ -3,6 +3,8 @@ cmb-unlocker
 
 A Chrome extension for accessing CMB Mobile Bank from Chrome.
 
+[INSTALL](https://chrome.google.com/webstore/detail/cmb-unlocker/dpmennfdohdabeppogbghafneoadidla "Chrome Web Store")
+
 ## 说明
 
 招商银行手机银行网页版会验证用户屏幕尺寸，使得大尺寸设备无法登录
